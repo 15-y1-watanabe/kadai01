@@ -9,10 +9,13 @@
 
 .header__nav {
     display: flex;
+    font-size: 32px;
 }
 
 .header__nav li {
     margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 /* mainvisual */
