@@ -264,10 +264,12 @@
   text-align: center;
   line-height:18px;
   font-size: 18px;
+  margin-bottom: 60px;
 }
 
 .widthMax { 
   margin: 0 calc(50% - 50vw);
+  margin-bottom: 45px;
 }
 
 
