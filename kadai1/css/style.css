@@ -344,7 +344,7 @@
 .contact-item,
 .contact-body {
     padding: 8px;
-    border: 1px solid #bfbfbf;
+    /* border: 1px solid #bfbfbf; */
 }
 
 .contact-item {
